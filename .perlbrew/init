@@ -1,0 +1,5 @@
+export PERLBREW_MANPATH="/home/tommy/perl5/perlbrew/perls/cperl-5.22.5/man"
+export PERLBREW_PATH="/home/tommy/perl5/perlbrew/bin:/home/tommy/perl5/perlbrew/perls/cperl-5.22.5/bin"
+export PERLBREW_PERL="cperl-5.22.5"
+export PERLBREW_ROOT="/home/tommy/perl5/perlbrew"
+export PERLBREW_VERSION="0.83"

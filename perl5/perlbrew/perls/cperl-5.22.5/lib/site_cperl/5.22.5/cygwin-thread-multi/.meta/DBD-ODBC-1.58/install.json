@@ -1,0 +1,1 @@
+{"pathname":"M/MJ/MJEVANS/DBD-ODBC-1.58.tar.gz","version":"1.58","dist":"DBD-ODBC-1.58","target":"DBD::ODBC","provides":{"DBD::ODBC::db":{"version":"1.58","file":"ODBC.pm"},"DBD::ODBC::dr":{"version":"1.58","file":"ODBC.pm"},"DBD::ODBC::st":{"version":"1.58","file":"ODBC.pm"},"DBD::ODBC":{"version":"1.58","file":"ODBC.pm"}},"name":"DBD::ODBC"}

@@ -1,0 +1,1 @@
+{"pathname":"E/ET/ETHER/Test-CleanNamespaces-0.22.tar.gz","version":"0.22","dist":"Test-CleanNamespaces-0.22","target":"Test::CleanNamespaces","provides":{"Test::CleanNamespaces":{"version":"0.22","file":"lib/Test/CleanNamespaces.pm"}},"name":"Test::CleanNamespaces"}
